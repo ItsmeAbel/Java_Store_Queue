@@ -1,2 +1,5 @@
 # Java_Store_Queue
-A Java Program that simulates a queue in a store
+One of my first Java programs, which I created before. I found it on my laptop and thought it should belong here...
+App Interface:
+![App Screenshot](screenshot.jpg)
+
